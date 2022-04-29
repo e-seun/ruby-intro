@@ -15,3 +15,8 @@
 # rand(1..6)
 # Log output to the screen with puts:
 # puts "Hello, world"
+
+die1 = 3
+die2 = 4
+
+puts "The first dies is" #{die1}
